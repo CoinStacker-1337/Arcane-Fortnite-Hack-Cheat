@@ -49,47 +49,49 @@
 , Distance to the player
 , Mark bots
 , View Line (Show where the player is looking)
-,Rendering Distance
-,Visible color
-,Color of the invisible.
+, Rendering Distance
+, Visible color
+, Color of the invisible.
 
 **Items ESP**
 
 
 -Battle mode
-,Key binding for battle mode
-,Rarity Spot:
-,Items:
-,Chest
-,Ammunition Box
-,Installing Redux
-,Vehicle
-,Zipline
+, Key binding for battle mode
+, Rarity Spot:
+, Items:
+, Chest
+, Ammunition Box
+, Installing Redux
+, Vehicle
+, Zipline
 
 
 **Radar**
 
 
 -Zoom
-,Size
-,Distance
-,Transparency
-,Visible check
+, Size
+, Distance
+, Transparency
+, Visible check
 
 
 **MISC**
 
 
 -Menu opening key
-,Menu unload key
-,Menu Language
+, Menu unload key
+, Menu Language
 
 
 **Config System**
+
+
 -Create
-,Save
-,Load
-,Delete
+, Save
+, Load
+, Delete
 
 
 **Q : Why do we need software/cheats?**
