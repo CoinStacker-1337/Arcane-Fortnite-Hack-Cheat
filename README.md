@@ -1,13 +1,5 @@
 # **Arcane Fortnite Hack Cheat**
-
-![alt text](https://i.ibb.co/P6t2rrK/8-webp-204360026fe168006edcb519cd76235a.webp)
-
-![altd text]((ttps://i.ibb.co/sJ8R7Dx/1-webp-de84634a85e5da44158138d562c41b8b.webp))
-
-
-
-# **Availible Functions**
-
+![alt text](https://i.ibb.co/2tYyQMh/s-l1200.jpg)
 
 **AIMBOT**
 
@@ -84,6 +76,17 @@
 , Save
 , Load
 , Delete
+
+# **In-Game Shots**
+
+![alt text](https://i.ibb.co/P6t2rrK/8-webp-204360026fe168006edcb519cd76235a.webp)
+
+![alt text](https://i.ibb.co/fGjFJK6/1-webp-de84634a85e5da44158138d562c41b8b.webp)
+
+![alt text](https://i.ibb.co/8Bkvb2p/2-webp-bc1qpxg945ayn39esntuaxwkd8qa92fmrzjlx8csfs.webp)
+
+# **Menu Shots**
+
 
 
 # **F.A.Q**
