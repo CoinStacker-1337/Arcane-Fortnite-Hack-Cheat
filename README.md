@@ -1,5 +1,7 @@
 # **Arcane Fortnite Hack Cheat**
-![alt text](https://i.ibb.co/2tYyQMh/s-l1200.jpg)
+I present to your attention the software for Fortnite - Arcane. It has impressive functionality and pleasant visuals. Visible check will help you see the enemy and determine direct or closed visibility (the color of the outline will change), and Aim predict will help you hit even a running enemy. ​The software no longer requiers paid key. 
+
+# **Avaleble Functions**
 
 **AIMBOT**
 
@@ -85,8 +87,12 @@
 
 ![alt text](https://i.ibb.co/8Bkvb2p/2-webp-bc1qpxg945ayn39esntuaxwkd8qa92fmrzjlx8csfs.webp)
 
-# **Menu Shots**
+![alt text](https://www.skycheats.com/uploads/monthly_2024_01/9.webp.ef7d6ebad06f2067b6bb304e0d58565c.webp)
 
+
+
+# **Menu Shots**
+![alt text](https://i.imgur.com/xvukHHj.gif)
 
 
 # **F.A.Q**
