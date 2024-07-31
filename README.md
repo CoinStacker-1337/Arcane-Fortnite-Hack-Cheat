@@ -1,16 +1,8 @@
 # **Arcane Fortnite Hack Cheat**
 
+![alt text](https://i.ibb.co/P6t2rrK/8-webp-204360026fe168006edcb519cd76235a.webp)
 
-
-
-
-
-
-
-
-
-
-
+![altd text]((ttps://i.ibb.co/sJ8R7Dx/1-webp-de84634a85e5da44158138d562c41b8b.webp))
 
 
 
@@ -93,6 +85,8 @@
 , Load
 , Delete
 
+
+# **F.A.Q**
 
 **Q : Why do we need software/cheats?**
 A : Software or cheats are designed to gain advantages over other players by using various functions in various games.
