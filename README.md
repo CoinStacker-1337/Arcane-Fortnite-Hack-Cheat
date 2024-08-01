@@ -51,7 +51,7 @@ I present to your attention the software for Fortnite - Arcane. It has impressiv
 , Ammunition Box
 , Installing Redux
 , Vehicle
-, Zipline
+, Zipline.
 
 
 **Radar**
@@ -61,7 +61,7 @@ I present to your attention the software for Fortnite - Arcane. It has impressiv
 , Size
 , Distance
 , Transparency
-, Visible check
+, Visible check.
 
 
 **MISC**
@@ -69,7 +69,7 @@ I present to your attention the software for Fortnite - Arcane. It has impressiv
 
 -Menu opening key
 , Menu unload key
-, Menu Language
+, Menu Language.
 
 
 **Config System**
@@ -78,7 +78,7 @@ I present to your attention the software for Fortnite - Arcane. It has impressiv
 -Create
 , Save
 , Load
-, Delete
+, Delete.
 
 # **In-Game Shots**
 
