@@ -11,10 +11,10 @@ I present to your attention the software for Fortnite - Arcane. It has impressiv
 , First Keybind
 , Second Keybind
 , Bone
-  Head / Head
-  Neck / Neck
-  Body / Body
-  Pelvis / Pelvis
+  Head
+  Neck
+  Body
+  Pelvis 
 , Aim speed
 , Aim Operating Distance
 , Visibility check
