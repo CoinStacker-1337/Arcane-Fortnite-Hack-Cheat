@@ -1,4 +1,5 @@
 # **Arcane Fortnite Hack Cheat**
+
 I present to your attention the software for Fortnite - Arcane. It has impressive functionality and pleasant visuals. Visible check will help you see the enemy and determine direct or closed visibility (the color of the outline will change), and Aim predict will help you hit even a running enemy. ​The software no longer requiers paid key. 
 
 # **Avaleble Functions**
@@ -104,8 +105,7 @@ A : Software or cheats are designed to gain advantages over other players by usi
 **Q : What is RMT and is it possible to make money from it?**
 A:RMT (Real Money Trading) – sale of game currency or services for real money. Of course, you can make very good money if you follow the rules and instructions. Here are some of them:
 Use time-tested functions and those that are difficult to see with the naked eye.
-Play as if you are an ordinary player, be an Actor! This is necessary to avoid a ban when watching you, and also to avoid being banned for reports from players.
-Play with Hwid Spoofer - it will help hide the real identifiers of your system, in other words, if you received a ban, then it will be received on a random non-existent system, and you, with the help of this program, can change the identifiers again and continue playing, although the account in the game is yours you still have to buy a new one.
+Play as if you are an ordinary player, be an Actor! This is necessary to avoid a ban when watching you, and also to avoid being banned for reports from players. Play with Hwid Spoofer - it will help hide the real identifiers of your system, in other words, if you received a ban, then it will be received on a random non-existent system, and you, with the help of this program, can change the identifiers again and continue playing, although the account in the game is yours you still have to buy a new one.
 Try to follow the news about the software you use, their changes and detection statuses! It may happen that you, having forgotten to check the status of a particular cheat, decided to play, but were banned because the cheat went into detection.
 
 
