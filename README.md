@@ -116,3 +116,9 @@ A : In addition to each of our cheats, we attach instructions. If you are confus
 **Q : Won't I get banned? Won't I go to the ban?**
 A : No one will give you a definite answer to this question. Those who tell you that the cheat is 100% legitimate and you definitely won’t get banned - immediately avoid such people and judgments. You can never provide a 100% guarantee that a ban will not come, all this is calculated as a percentage (Absolutely everything is applied): Developer, private or public, rage or legit, time not detected, whatever. Therefore, it is always worth starting first of all from the time of not detecting the software, and then sum everything up and draw conclusions for yourself whether you need it.
 
+# Join The Telegram
+
+<a href="[https://t.me/We_Win_More]">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram" width="290">
+</a>
+
